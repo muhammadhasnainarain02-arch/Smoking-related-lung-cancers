@@ -1,2 +1,20 @@
-# Smoking-related-lung-cancers
-Smoking is the leading cause of lung cancer, responsible for most cases worldwide. Tobacco smoke contains toxic chemicals that damage lung cells over time, causing mutations and tumors. Risk increases with longer and heavier smoking, but quitting at any age can greatly reduce the chance of developing lung cancer.
+# Lung Cancer Streamlit Dashboard
+
+Quick instructions to run the interactive dashboard locally.
+
+Prerequisites
+- Python 3.8+
+- Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run
+
+```bash
+cd "c:\\Users\\MuhammadHasnainArain\\Desktop\\Streamlit\\Centre work"
+streamlit run app.py
+```
+
+Place `lung_cancer.csv` in the same folder if it is not already present.
